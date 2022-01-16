@@ -100,7 +100,7 @@ h1, h2{
     color: #fff;
     background-color: rgba(81, 122, 225, 0.6);
     text-align: center;
-    margin; auto;
+    margin: auto;
     width: 100%;
     border: 5px solid powderblue;
     padding: 20px;
@@ -127,11 +127,11 @@ h1, h2{
 }
 
 .button:hover {
-    background-color: ;
+    background-color: pink;
 }
 
 .find-us {
-    background-color: ;
+    background-color: #fff;
     color: #3a3a3a;
 }
 
@@ -160,7 +160,7 @@ h1, h2{
 .social-networks i {
     font-size: 200%;
     margin: 2%;
-    padding: 1%%;
+    padding: 1%;
     color: black;
 }
 
