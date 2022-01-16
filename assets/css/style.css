@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: #fff;
 } 
 body {
     font-family: lato, sans-serif;
@@ -37,7 +36,7 @@ h1, h2{
 
 #menu li{
     float: left;
-    margin-left: 100px;
+    margin-left: 80px;
     margin-right: 1px;
     list-style: none;
 }
@@ -95,13 +94,38 @@ h1, h2{
 
 }
 
-#about-info, h2, p{
+#about-info {
     font-size: 120%;
+    font-family: roboto, sans-serif;
+    color: #fff;
+    background-color: rgba(81, 122, 225, 0.6);
     text-align: center;
+    margin; auto;
+    width: 100%;
+    border: 5px solid powderblue;
+    padding: 20px;
 }
 
-#about-info {
-    margin-top: 80px;
+#about-info h2 {
+    font-size: 200%;
+    color: #fff;
+}
+
+.button {
+    background-color: powderblue;
+    border: none;
     padding: 20px;
-    background-color:rgba(141, 176, 238, 0.8)
+    text-align: center;
+    display: inline-block;
+    font-size: 100%;
+    border-radius: 8px;
+}
+
+.button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.button:hover {
+    background-color: pink;
 }
