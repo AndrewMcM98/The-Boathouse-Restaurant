@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    background-color: #fff;
 } 
 body {
     font-family: lato, sans-serif;
@@ -79,7 +80,7 @@ h1, h2{
     background-size: cover;
 }
 
-#cover-text{
+#cover-text {
     font-size: 120%;
     font-family: roboto, sans-serif;
     width: 400px;
@@ -87,9 +88,20 @@ h1, h2{
     padding-top: 50px;
     padding-left: 20px;
     background-color: rgba(81, 122, 225, 0.8);
-    bottom: 40px;
+    bottom: 200px;
     right: 150px;
 
     position: absolute;
 
+}
+
+#about-info, h2, p{
+    font-size: 120%;
+    text-align: center;
+}
+
+#about-info {
+    margin-top: 80px;
+    padding: 20px;
+    background-color: rgba{141, 176, 238, 0.8);
 }
