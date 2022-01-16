@@ -127,5 +127,46 @@ h1, h2{
 }
 
 .button:hover {
-    background-color: pink;
+    background-color: ;
+}
+
+.find-us {
+    background-color: ;
+    color: #3a3a3a;
+}
+
+.find-us h3 {
+    font-family: roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #3a3a3a;
+    text-align: center;
+}
+
+.location {
+    width: 80%;
+    margin: 10px 10% 10px 10% ;
+    height: 200px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 2%;
+    padding: 1%%;
+    color: black;
+}
+
+footer h4 {
+    text-align: center;
+    color: #3a3a3a;
+    font-size: 100%;
+    letter-spacing: 1px;
 }
