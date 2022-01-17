@@ -16,6 +16,14 @@ h1, h2{
     color: #3a3a3a;
 }
 
+.navbar-nav a:hover {
+    border-bottom: 1px solid black;
+}
+
+.navbar-nav > .active {
+    border: 2px solid plum;
+    }
+
 #image-container {
     height: 600px;
     width: 100%;
