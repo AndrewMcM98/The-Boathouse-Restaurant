@@ -136,6 +136,44 @@ footer h4 {
     width: 100%;
 }
 
+.background-menu {
+    width: 100%;
+    background-image: url("../images/menubackground.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.menu-layout {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(232, 236, 237, 0.6);
+}
+
+hr {
+    border-bottom: 2px solid gray;
+    border-radius: 60%;
+}
+
+.starter {
+    flex: 30%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.main-course {
+    flex: 30%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.dessert {
+    flex: 30%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
 
 @media screen and (min-width: 768px) {
   #cover-text {
