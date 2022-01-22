@@ -154,7 +154,7 @@ footer h4 {
     flex-wrap: wrap;
     text-align: center;
     width: 100%;
-    background-color: rgba(232, 236, 237, 0.6);
+    background-color: rgba(232, 236, 237, 0.8);
 }
 
 hr {
@@ -181,7 +181,7 @@ hr {
 }
 
 .contact-background {
-    background: url(../images/internalviewofrestaurant.jpeg);
+    background: url("../images/imageofkitchen.jpeg");
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -218,6 +218,14 @@ input:hover {
 
 textarea:hover {
     background-color: rgba(231, 197, 208, .8);
+}
+
+.booking-background {
+    background: url("../images/internalviewofrestaurant.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-size: 120%;
 }
 
 #day {
