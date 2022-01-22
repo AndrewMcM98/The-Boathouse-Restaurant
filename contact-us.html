@@ -10,8 +10,8 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a href=index.html id=logo> <h1 class="text-dark">The Boathouse Restaurant</h1> </a>
+        <nav class="navbar navbar-expand-xl navbar-light bg-light">
+        <a href=index.html id=logo> <h1>The Boathouse Restaurant</h1> </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
           </button>
@@ -36,6 +36,25 @@
           </div>
       </nav>
     </header>
+
+    <section class="contact-background">
+        <form class="contact-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <fieldset>
+                <legend>Contact Us!</legend>
+                <label for="fname">First Name:</label><br>
+                <input type="text" required id="fname" name="fname" placeholder="Your first name here"><br>
+                <label for="lname">Last Name:</label><br>
+                <input type="text" required id="lname" name="lname" placeholder="Your last name here"><br>
+                <label for="email">Email:</label><br>
+                <input type="text" required id="email" name="email" placeholder="Your email here"><br>
+                <label for="phone">Phone Number:</label><br>
+                <input type="text" required id="phone" name="phone" placeholder="Your number here"><br> 
+                <br>
+                <textarea required id="message" cols="80" rows="15" name="message" placeholder="Type your message here"></textarea>
+                <input type="submit" value="Submit">
+            </fieldset>
+        </form>
+    </section>
     
     <br>
     <footer class="find-us">

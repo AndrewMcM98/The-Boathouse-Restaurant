@@ -20,12 +20,18 @@ h1, h2{
     text-decoration: none;
 }
 
+li a {
+    font-size: 20px;
+    margin: 20px;
+}
+
 .navbar-nav a:hover {
     border-bottom: 1px solid black;
 }
 
 .navbar-nav > .active {
-    background-color: rgba(203, 180, 207, 0.3);
+    background-color: rgba(153, 197, 223, 0.3);
+    border-top: 1px solid black;
     }
 
 #image-container {
@@ -50,7 +56,7 @@ h1, h2{
     font-family: roboto, sans-serif;
     width: 100%;
     background-color: rgba(81, 122, 225, 0.8);
-    bottom: 200px;
+    bottom: 150px;
     position: absolute;
 }
 #about-info {
@@ -174,11 +180,72 @@ hr {
     margin: 10px;
 }
 
+.contact-background {
+    background: url(../images/internalviewofrestaurant.jpeg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-size: 120%;
+}
+
+.contact-form {
+   background-color: rgba(60, 60, 60, 0.6);
+   width: 100%;
+   padding: 30px 70px 40px 200px;
+}
+
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+textarea {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+    resize: none;
+}
+
 
 @media screen and (min-width: 768px) {
-  #cover-text {
+#cover-text {
     padding-top: 50px;
     padding-left: 20px;
     right: 150px;
+    width: 80%;
   }
 }
+
+@media screen and (max-width: 700px) {
+#cover-text {
+    padding-top: 50px;
+    padding-left: 20px;
+    width: 100%;
+    }
+
+.contact-form {
+    background-color: rgba(60, 60, 60, 0.6);
+    width: 100%;
+    padding: 0;
+    }
+
+input {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0 10px 20px;
+    cursor: pointer;
+    }
+
+textarea {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0 10px 20px;
+    resize: none;
+    }
+    }
