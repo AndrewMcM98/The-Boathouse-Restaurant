@@ -212,6 +212,46 @@ textarea {
     resize: none;
 }
 
+input:hover {
+    background-color: rgba(231, 197, 208, .8);
+}
+
+textarea:hover {
+    background-color: rgba(231, 197, 208, .8);
+}
+
+#day {
+    width: 50%;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#time {
+    width: 50%;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#party {
+    width: 50%;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#day:hover  {
+    background-color: rgba(231, 197, 208, .8);
+}
+
+#time:hover  {
+    background-color: rgba(231, 197, 208, .8);
+}
+
+#party:hover {
+    background-color: rgba(231, 197, 208, .8);
+}
 
 @media screen and (min-width: 768px) {
 #cover-text {
@@ -247,5 +287,32 @@ textarea {
     padding: 12px 20px;
     margin: 8px 0 10px 20px;
     resize: none;
+    }
+
+    #day {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0 10px 20px;
+        cursor: pointer;
+        box-sizing: border-box;
+        border-radius: 20px;
+    }
+    
+    #time {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0 10px 20px;
+        cursor: pointer;
+        box-sizing: border-box;
+        border-radius: 20px;
+    }
+    
+    #party {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0 10px 20px;
+        cursor: pointer;
+        box-sizing: border-box;
+        border-radius: 20px;
     }
     }
