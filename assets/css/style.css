@@ -73,6 +73,7 @@ li a {
     color: #fff;
 }
 .button {
+    text-decoration: none;
     background-color: powderblue;
     border: none;
     padding: 20px;
