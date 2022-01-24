@@ -1,108 +1,129 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Boathouse Restaurant
 
-Welcome AndrewMcM98,
+As part of my Dimploma in full stack software development with Code Institute I am required to complete 5 mile stone projects. For my milestone project 1, I have created a website for a fake restaurant based in Garryvoe, Co.Cork, Ireland.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Please click [HERE](https://andrewmcm98.github.io/The-Boathouse-Restaurant/) to view my website.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+I have focused on responsiveness across all devices for design.
 
-## Gitpod Reminders
+![Am I Responsive](/assets/img/responsive.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Who is this website for?
 
-`python3 -m http.server`
+This a website providing detail and information for a fake restaurant based in Garryvoe, Co.Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
+Additionally, I have included a call to action in providing a section on each page on how to find the restuarant with engaging contact & booking forms to promote customer engagement with the website.
+This is a perfect method for restaurants to show case their restaurant, and products whilst engaging with the customer to provide the customer with plentiful information to come dine here.
 
-A blue button should appear to click: _Make Public_,
+## The Owner
 
-Another blue button should appear to click: _Open Browser_.
+The owner of this website is me, Andrew McMahon, the developer as this is based on a fake restaurant for education purposes to demonstrate my competence in this project.
+However, this website can be easily adapted to many other restaurants and is designed to show case the restaurant to attract customers and actively engage with the customer through contact and booking forms, making it easy for the customer to find us.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## What does it do?
 
-A blue button should appear to click: _Make Public_,
+This a website providing detail and information for a fake restaurant based in Garryvoe, Co.Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
 
-Another blue button should appear to click: _Open Browser_.
+## User Experience
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### User Stories
 
-To log into the Heroku toolbelt CLI:
+#### From the customers perspective
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* As a user I want to be able to navigate easily and clearly throughout the website
+* As a user I want to get clear information for the restaurant opening times
+* As a user I want to find the restaurant easily 
+* As a user I want to be able to find the restaurant social media pages easily and clearly
+* As a user I want to be able to access and interact with this website on a number of different devices
+* As a user I want to see what their menu has to offer with prices clearly displayed so I can make an informed decision
+* As a user I want to see images of the restaurant for identification and decision purposes
+* As a user I want to be able to contact or make a booking online with ease
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### From the customers fulfilment
 
-------
+* I have designed the website so that the Navigational bar at the top of the screen is clear with easy to navigate links. Additionally I have included a light background and black line to be displayed at all times for the page you are currently on, so that the user will always be aware as to what section of the website they are located on.
+* I have included the restaurant opening days/hours at the main page, so that the user is aware of the restaurant operational hours.
+* I have incorprated an embedded google map location finder within the footer, on all pages of the restaurant so that the user can find the restaurant with ease. 
+* I have included social media links to the relevant social media pages within the footer of the website, which are displayed via the social media logo for easily identifiable links.
+* I have ensured that the website is responsive across multiple devices for easy interaction.
+* I have included a menu section which is easily navigated to from the navigational menu, of which the menu and prices and clearly displayed for the customer to see what is on offer.
+* I have included a gallery which includes images of the food, internal and external view of the restaurant to showcase the view, spacious seating and some of the food on offer to attract a user and improve customer engagement.
+* I have included a section for the user to both contact the restaurant with any queries they may have or alternatively make a booking on any given day/time.
 
-## Release History
+## UX 5 Planes
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Strategy Plane
+This website was created to provide an online prescence to the boathouse restaurant to increase awareness for the restaurant whilst offering an easier efficient method for customers to gain more information about the restaurant and whats on offer, whilst being able to make contact or bookings efficiently through clear logic calls to action in links to the booking page or a google map finder, located on the footer of each page encouraging engagement with the user.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+Therefore, following market research of other local restaurants it was important to provide genernal restaurant information, a menu with pricing, a gallery showcasing the restaurants uniquie setting by the sea, with clear calls to action for a customer to engage with the website or easily find the restaurant.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Scope Plane
+Important features included within this project are,
+* 4 pages
+* 2 pages with a specific funtion to encourage engagement with the user though a contact-us and booking form
+* A home page providing opening days/hours with general about information for the user
+* A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to fing the restaurant
+* A responsive website so that a user can access and interact with this website across a range of devices
+* A gallery section to show case the spacious and picturesque location of the restaurant to attract customers
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Structure Plane
+The structure and deisgn of the website was created to contain a specific purpose for each section throughout the website such as,
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+1. Navigation
+- Responsive menu bar across devices
+- Easily accessed to the top of each page whilst allowing easy access to each page
+- A clear background color & black strike line to the top of the menu section the user is currently on
+2. Home
+- Clear bright background color, with a simple background image and overlay text which is easily read by the user
+- A clear section providing information for opening times
+- An about us section to provide background information for the restaurant and owner
+- A call to action for the user to encourage engagement in booking
+3. Menu
+- A clear easily found section providing clear concise information for the produce on offer accompanied by a brief description with pricing included
+4. Gallery
+- This section is show casing the picturesque, spacious and delicious cuisine on offer, which showcases the restaurant whilst appealing to the user
+5. Contact Us
+- This call to action page is to encourage contact and engagement with the user so that the user can easily and comfortably contact the restaurant with any enquiries or queries they may have
+6. Booking
+- This is an additional call to action page but with ths specific purpose to allow a user to place a booking at any give time/day, offering peace of mind to the user for availability whilst boosting user interaction and experience
+7. Footer
+- The footer consists of social media links displayed via their logo/icons to encourage enagegment with the user and restaurant across their various social media pages to further boost their online prescence. Additionally I have included an embeded google map finder, so that a user can quickly and easily locate the restaurant.
+Finally, I have included some generic information for the purposes of this website.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Skeleton Plane
+Please see wireframes.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+I focused design on responsiveness so that this website is responsive and accessible across multiple devices improving both UX & UI.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Surface Plane
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+#### Colors
+1. Background
+- Where a background image was not used, I maintained a clean and crispe white/#fff
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+2. Text
+- For text I primarily used 2 colors, which were white/#fff and/or dark grey/#3a3a3a
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+3. Navigation
+- For the menu bar i maintained a white/#fff background section color, however i utilised an active class so that the page the user is currently on will have a transparent background colour of a baby blue/rgba(153, 197, 223, 0.3), and a dark black border above.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+4. Home
+- For the image overlay text I used a font color of white/#fff and a transparent background color of a light blue/rgba(81, 122, 225, 0.8)
+- For the About us section I used a more trasnparent version of the above light blue/rgba(81, 122, 225, 0.6)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+5. Menu
+- I have placed an overlay color of a light grey/rgba(232, 236, 237, 0.8), for text contrast above the background image with a text color of dark grey/#3a3a3a, for contrast and easy reading.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+6. Gallery
+- As this section is just for images, the standard default background color of white/#fff is applied.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+7. Contact Us & Booking
+- For this section I have allowed a white/#fff color text and box for the user to input the relevant required information over the background image
+- For responsivness I included a placeholder text which is a transparent black. Additionally, I included a hover effect which when selected will display a light pink/rgba(231, 197, 208, .8) for easy identification of the section the user is currently actioning across all elements including the submit button.
 
-------
+8. Footer
+- This section contains a white/#fff background color with a text color of dark grey/#3a3a3a, for contrast and easy reading.
+- Additionally, the social media logo/icons a colored black for contrast and easy reading.
 
-## FAQ about the uptime script
+#### Fonts
+Throughout this website I have utilised Lato, and Roboto which I imported from google fonts with a fallback font of sans-serif, should this not function correctly.
 
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
