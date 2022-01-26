@@ -100,31 +100,31 @@ I focused design on responsiveness so that this website is responsive and access
 
 #### Colours
 1. Background
-- Where a background image was not used, I maintained a clean and crispe white/#fff
+- Where a background image was not used, I maintained a clean and crisp white/#fff
 
 2. Text
 - For text I primarily used 2 colors, which were white/#fff and/or dark grey/#3a3a3a
 
 3. Navigation
-- For the menu bar i maintained a white/#fff background section color, however i utilised an active class so that the page the user is currently on will have a transparent background colour of a baby blue/rgba(153, 197, 223, 0.3), and a dark black border above.
+- For the menu bar i maintained a white/#fff background section colours, however I utilised an active class so that the page the user is currently on will have a transparent background colour of a baby blue/rgba(153, 197, 223, 0.3), and a dark black border above.
 
 4. Home
-- For the image overlay text I used a font color of white/#fff and a transparent background color of a light blue/rgba(81, 122, 225, 0.8)
-- For the About us section I used a more trasnparent version of the above light blue/rgba(81, 122, 225, 0.6)
+- For the image overlay text I used a font colour of white/#fff and a transparent background colour of a light blue/rgba(81, 122, 225, 0.8)
+- For the About us section I used a more transparent version of the above light blue/rgba(81, 122, 225, 0.6)
 
 5. Menu
-- I have placed an overlay color of a light grey/rgba(232, 236, 237, 0.8), for text contrast above the background image with a text color of dark grey/#3a3a3a, for contrast and easy reading.
+- I have placed an overlay colour of a light grey/rgba(232, 236, 237, 0.8), for text contrast above the background image with a text colour of dark grey/#3a3a3a, for contrast and easy reading.
 
 6. Gallery
-- As this section is just for images, the standard default background color of white/#fff is applied.
+- As this section is just for images, the standard default background colour of white/#fff is applied.
 
 7. Contact Us & Booking
-- For this section I have allowed a white/#fff color text and box for the user to input the relevant required information over the background image
-- For responsivness I included a placeholder text which is a transparent black. Additionally, I included a hover effect which when selected will display a light pink/rgba(231, 197, 208, .8) for easy identification of the section the user is currently actioning across all elements including the submit button.
+- For this section I have allowed a white/#fff colour text and box for the user to input the relevant required information over the background image
+- For responsiveness I included a placeholder text which is a transparent black. Additionally, I included a hover effect which when selected will display a light pink/rgba(231, 197, 208, .8) for easy identification of the section the user is currently actioning across all elements including the submit button.
 
 8. Footer
-- This section contains a white/#fff background color with a text color of dark grey/#3a3a3a, for contrast and easy reading.
-- Additionally, the social media logo/icons a colored black for contrast and easy reading.
+- This section contains a white/#fff background colour with a text colour of dark grey/#3a3a3a, for contrast and easy reading.
+- Additionally, the social media logo/icons a coloured black for contrast and easy reading.
 
 #### Fonts
 Throughout this website I have utilised Lato, and Roboto which I imported from google fonts with a fallback font of sans-serif, should this not function correctly.
@@ -133,16 +133,16 @@ Throughout this website I have utilised Lato, and Roboto which I imported from g
 Throughout this website I included free Icons and Logos which I obtained from Font Awesome.
 
 #### Images
-The images I used do not display a realy physical restaurant, of which I obtained these images under free licence use from, Unsplash.
+The images I used do not display a real physical restaurant, of which I obtained these images under free licence use from, Unsplash.
 
 ## Features
 
 ### Existing Features
 1. Home Page
-On first entering the webiste the user will be met by bright colors, clear text and an easy to follow layout.
+On first entering the website the user will be met by bright colours, clear text and an easy to follow layout.
 ![Main Page](/assets/images/main-page.png)
-The user will also be provided with some key information such as general opening days/hours, an about us section accompanied by a call to action in a achor link styles to appear as a button, encouraging user engagement to book.
-I have styled the link to appear as a responsive button with a hover effect, as we all as background image showcasing the beautiful scenery with a blue theme color to link with the sea-side.
+The user will also be provided with some key information such as general opening days/hours, an about us section accompanied by a call to action in a anchor link styles to appear as a button, encouraging user engagement to book.
+I have styled the link to appear as a responsive button with a hover effect, as we all as background image showcasing the beautiful scenery with a blue theme colour to link with the sea-side.
 ![Responsive Link](/assets/images/responsive-link.png)
 
 2. Menu Page
@@ -153,15 +153,15 @@ Through reserach online via youtube tutorials and primarily W3 Schools, I was ab
 3. Gallery Page
 
 On navigating to the menu page the user will be provided with a gallery providing plentiful photos of the cuisine on offer, restaurant layout internally and externally.
-Through reserach online via youtube tutorials and primarily W3 Schools, I was able to create a responsive flex layout which will scale the photos up or down accprding to the device.
+Through research online via YouTube tutorials and primarily W3 Schools, I was able to create a responsive flex layout which will scale the photos up or down according to the device.
 For example, in the first image you see the gallery from a smaller device which provides a view of the image's without much of a need to scroll, however in the second image we see larger image's on a desktop which requires a user to scroll.
 ![View of gallery on smaller devices](assets/images/smaller-screen-gallery.png)
 ![View of gallery on desktop devices](assets/images/desktop-gallery.png)
 4. Contact Us & Booking page
 
 On navigating to the contact-us or booking page the user will be provided with a form to be completed and can then be submitted to the restaurant on successfully filling out the sections of the form.
-Through reserach online via youtube tutorials, W3 Schools and code institute lessons, I was able to create a responsive form which can be accessed on multiple devices without distortion.
-Additionally, I have styled the form text boxes to appear as a responsive background color when being typed in with a hover effect as displayed in the images below.
+Through research online via YouTube tutorials, W3 Schools and code institute lessons, I was able to create a responsive form which can be accessed on multiple devices without distortion.
+Additionally, I have styled the form text boxes to appear as a responsive background colour when being typed in with a hover effect as displayed in the images below.
 Furthermore, I included placeholder text to assist the user in what each section requires to be submitted.
 ![View of booking page](assets/images/booking-page.png)
 ![View of booking page responsiveness](assets/images/booking-page-responsiveness.png)
@@ -171,14 +171,14 @@ Furthermore, I included placeholder text to assist the user in what each section
 
 At the top of each page I have a navigational menu.
 On a desktop device, a standard menu will appear with all pages listed at the top of the page.
-However, after reviewing online youtube tutorials, hackathons, online examples from get bootsrap.com, as well as a quick lesson from my mentor Spencer on how to incorporate Bootsrap into my project with a quick demo, I was able to include a functioning hamburger menu script which is responsive across multiple devices thanks to my mentor, and online resources. 
+However, after reviewing online YouTube tutorials, hackathons, online examples from get bootsrap.com, as well as a quick lesson from my mentor Spencer on how to incorporate Bootstrap into my project with a quick demo, I was able to include a functioning hamburger menu script which is responsive across multiple devices thanks to my mentor, and online resources. 
 The below images demonstrate the functionality and layout of the menu in both a large or small device.
 ![View of menu bar](assets/images/menu-bar.png)
 ![View of hamburger menu](assets/images/hamburger-menu.png)
 ![View of hamburger menu options](assets/images/hamburger-menu-layout.png)
 6. Footer
 
-At the bottom of each page I have included a section on how to find us, which encourages user engagement to the relevant social media platforms used by the restaurant boosting their online prescence and following.
+At the bottom of each page I have included a section on how to find us, which encourages user engagement to the relevant social media platforms used by the restaurant boosting their online presence and following.
 Additionally, as seen in the below image I have included a google map location finder to make it simple for customers to come dine with us.
 Lastly, I have included confirmation that this website is for educational purposes accompanied by my name as the developer.
 ![View of footer](assets/images/footer-img.png)
