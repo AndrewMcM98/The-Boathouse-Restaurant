@@ -44,7 +44,7 @@ This a website providing detail and information for a mockup restaurant based in
 
 * I have designed the website so that the Navigational bar at the top of the screen is clear with easy to navigate links. Additionally I have included a light background and black line to be displayed at all times for the page you are currently on, so that the user will always be aware as to what section of the website they are located on.
 * I have included the restaurant opening days/hours at the main page, so that the user is aware of the restaurant operational hours.
-* I have incorprated an embedded google map location finder within the footer, on all pages of the restaurant so that the user can find the restaurant with ease. 
+* I have incorporated an embedded google map location finder within the footer, on all pages of the restaurant so that the user can find the restaurant with ease. 
 * I have included social media links to the relevant social media pages within the footer of the website, which are displayed via the social media logo for easily identifiable links.
 * I have ensured that the website is responsive across multiple devices for easy interaction.
 * I have included a menu section which is easily navigated to from the navigational menu, of which the menu and prices and clearly displayed for the customer to see what is on offer.
@@ -54,28 +54,28 @@ This a website providing detail and information for a mockup restaurant based in
 ## UX 5 Planes
 
 ### Strategy Plane
-This website was created to provide an online prescence to the boathouse restaurant to increase awareness for the restaurant whilst offering an easier efficient method for customers to gain more information about the restaurant and whats on offer, whilst being able to make contact or bookings efficiently through clear logic calls to action in links to the booking page or a google map finder, located on the footer of each page encouraging engagement with the user.
+This website was created to provide an online presence to the boathouse restaurant to increase awareness for the restaurant whilst offering an easier efficient method for customers to gain more information about the restaurant and what's on offer, whilst being able to make contact or bookings efficiently through clear logic calls to action in links to the booking page or a google map finder, located on the footer of each page encouraging engagement with the user.
 
-Therefore, following market research of other local restaurants it was important to provide genernal restaurant information, a menu with pricing, a gallery showcasing the restaurants uniquie setting by the sea, with clear calls to action for a customer to engage with the website or easily find the restaurant.
+Therefore, following market research of other local restaurants it was important to provide general restaurant information, a menu with pricing, a gallery showcasing the restaurants unique setting by the sea, with clear calls to action for a customer to engage with the website or easily find the restaurant.
 
 ### Scope Plane
 Important features included within this project are,
 * 4 pages
-* 2 pages with a specific funtion to encourage engagement with the user though a contact-us and booking form
+* 2 pages with a specific function to encourage engagement with the user though a contact-us and booking form
 * A home page providing opening days/hours with general about information for the user
-* A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to fing the restaurant
+* A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to find the restaurant
 * A responsive website so that a user can access and interact with this website across a range of devices
 * A gallery section to show case the spacious and picturesque location of the restaurant to attract customers
 
 ### Structure Plane
-The structure and deisgn of the website was created to contain a specific purpose for each section throughout the website such as,
+The structure and design of the website was created to contain a specific purpose for each section throughout the website such as,
 
 1. Navigation
 - Responsive menu bar across devices
 - Easily accessed to the top of each page whilst allowing easy access to each page
-- A clear background color & black strike line to the top of the menu section the user is currently on
+- A clear background colour & black strike line to the top of the menu section the user is currently on
 2. Home
-- Clear bright background color, with a simple background image and overlay text which is easily read by the user
+- Clear bright background colour, with a simple background image and overlay text which is easily read by the user
 - A clear section providing information for opening times
 - An about us section to provide background information for the restaurant and owner
 - A call to action for the user to encourage engagement in booking
@@ -86,9 +86,9 @@ The structure and deisgn of the website was created to contain a specific purpos
 5. Contact Us
 - This call to action page is to encourage contact and engagement with the user so that the user can easily and comfortably contact the restaurant with any enquiries or queries they may have
 6. Booking
-- This is an additional call to action page but with ths specific purpose to allow a user to place a booking at any give time/day, offering peace of mind to the user for availability whilst boosting user interaction and experience
+- This is an additional call to action page but with the specific purpose to allow a user to place a booking at any given time/day, offering peace of mind to the user for availability whilst boosting user interaction and experience
 7. Footer
-- The footer consists of social media links displayed via their logo/icons to encourage enagegment with the user and restaurant across their various social media pages to further boost their online prescence. Additionally I have included an embeded google map finder, so that a user can quickly and easily locate the restaurant.
+- The footer consists of social media links displayed via their logo/icons to encourage engagement with the user and restaurant across their various social media pages to further boost their online presence. Additionally I have included an embedded google map finder, so that a user can quickly and easily locate the restaurant.
 Finally, I have included some generic information for the purposes of this website.
 
 ### Skeleton Plane
@@ -98,7 +98,7 @@ I focused design on responsiveness so that this website is responsive and access
 
 ### Surface Plane
 
-#### Colors
+#### Colours
 1. Background
 - Where a background image was not used, I maintained a clean and crispe white/#fff
 
