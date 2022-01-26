@@ -92,9 +92,30 @@ The structure and design of the website was created to contain a specific purpos
 Finally, I have included some generic information for the purposes of this website.
 
 ### Skeleton Plane
-Please see wireframes.
+As part of this project I focused design on responsiveness so that this website is responsive and accessible across multiple devices improving both UX & UI.
 
-I focused design on responsiveness so that this website is responsive and accessible across multiple devices improving both UX & UI.
+Please see wireframes below which demonstrate both mobile & desktop view,
+
+### Home
+![Home Desktop](assets/images/home-desktop.png)
+![Home Mobile](assets/images/home-mobile.png)
+
+### Menu
+![Menu Desktop](assets/images/menu-desktop.png)
+![Menu Mobile](assets/images/menu-mobile.png)
+
+### Gallery
+![Gallery Desktop](assets/images/gallery-desktop.png)
+![Gallery Mobile](assets/images/gallery-mobile.png)
+
+### Contact Us
+![Contact Us Desktop](assets/images/contact-desktop.png)
+![Contact Us Mobile](assets/images/contact-mobile.png)
+
+### Booking
+![Booking Desktop](assets/images/booking-desktop.png)
+![Booking Mobile](assets/images/booking-mobile.png)
+
 
 ### Surface Plane
 
