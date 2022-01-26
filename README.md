@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As part of my Dimploma in full stack software development with Code Institute I am required to complete 5 mile stone projects. For my first milestone project, I have created a website for a mockup webiste for a restaurant based in Garryvoe, Co.Cork, Ireland for educational purposes.
+As part of my Diploma  in full stack software development with Code Institute I am required to complete 5 mile stone projects. For my first milestone project, I have created a website for a mock-up website for a restaurant based in Garryvoe, Co. Cork, Ireland for educational purposes.
 
 Please click [HERE](https://andrewmcm98.github.io/The-Boathouse-Restaurant/) to view my website.
 
@@ -12,18 +12,18 @@ I have focused on responsiveness across all devices for design.
 
 ## Who is this website for?
 
-This a website providing detail and information for a mockup restaurant based in Garryvoe, Co.Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and general about information for the company to give a customer insight into the products on offer, and who we are.
-Additionally, I have included a call to action in providing a section on each page on how to find the restuarant with engaging contact & booking forms to promote customer engagement with the website.
+This a website providing detail and information for a mock-up restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and general about information for the company to give a customer insight into the products on offer, and who we are.
+Additionally, I have included a call to action in providing a section on each page on how to find the restaurant with engaging contact & booking forms to promote customer engagement with the website.
 This is a perfect method for restaurants to show case their restaurant, and products whilst engaging with the customer to provide the customer with plentiful information to come dine here.
 
 ## The Owner
 
-The owner of this website is me, Andrew McMahon, the developer as this is based on a mockup restaurant for education purposes to demonstrate my competence in this project.
+The owner of this website is me, Andrew McMahon, the developer as this is based on a mock-up restaurant for education purposes to demonstrate my competence in this project.
 However, this website can be easily adapted to many other restaurants and is designed to show case the restaurant to attract customers and actively engage with the customer through contact and booking forms, making it easy for the customer to find us.
 
 ## What does it do?
 
-This a website providing detail and information for a mockup restaurant based in Garryvoe, Co.Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
+This a website providing detail and information for a mockup restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
 
 ## User Experience
 
