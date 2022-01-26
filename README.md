@@ -230,12 +230,12 @@ Through further lessons and projects I would like to add the following future im
 
 ### W3C CSS Validator
 
-On testting my website via direct input on the W3C Css Validator, no errors were found. However, imported style sheet such as google fonts are not checked and is out of my control.
+On testing my website via direct input on the W3C CSS Validator, no errors were found. However, imported style sheet such as google fonts are not checked and is out of my control.
 ![CSS Valid](assets/images/css-valid.png)
 
 ### W3C Markup Validator
 
-On testing my HTML on direct input I note I recieved errors on the main home page, gallery page and booking page as displayed in the below images.
+On testing my HTML on direct input I note I received errors on the main home page, gallery page and booking page as displayed in the below images.
 #### Main Home Page
 
 On review of the HTML validator I note it stated, The element: a must not appear as a descendant or the button element.
@@ -257,12 +257,12 @@ However, whilst I note this error/warning suggestion, this page is designed to b
 ![Section Headings](assets/images/sectionlackheadings.png)
 #### Final Test
 
-On final testing of the HTML Validator and direct intput with no applicable error or warnings, I completed a URL check which also confirmed there to be no further errors.
+On final testing of the HTML Validator and direct input with no applicable error or warnings, I completed a URL check which also confirmed there to be no further errors.
 ![Corrections](assets/images/noerroronupdating.png)
 
 ### My own testing including Responsiveness
 
-On completion of the Validators, I carried out my own tests on devices ranging from Ipone 6 to Iphone 12 pro max, Ipad Air, Macbook Pro, and a Samsung Galaxy s10, which displayed the website perfectly with no issues on my assessment.
+On completion of the Validators, I carried out my own tests on devices ranging from iPhone 6 to iPhone 12 pro max, iPad Air, MacBook Pro, and a Samsung Galaxy s10, which displayed the website perfectly with no issues on my assessment.
 
 Furthermore, I also used Google chrome developer tools to test responsiveness on multiple devices which all displayed the content correctly.
 
@@ -278,11 +278,11 @@ The version control process was as follows,
 1. I first began with creating a new repository on Github with the compulsory code institute template. I done so by navigating to the code institute template provided as part of the course lessons, and selected "use this template", and proceeded to create a project name.
 2. Once a repository was created I clicked, "Gitpod" which created a new workspace for me to begin coding my project.
 3. I then proceeded to code, create files, asset folders and upload images for use throughout my project.
-4. On completing my coding for the evening I would then have to save the code I created. To do so, I would first ensure I have saved all files, and changes made whilst coding by hitting "cmd S" on my macbook.
+4. On completing my coding for the evening I would then have to save the code I created. To do so, I would first ensure I have saved all files, and changes made whilst coding by hitting "cmd S" on my MacBook.
 I would then navigate to the bottom of the gitpod workspace and select terminal.
 Once in the terminal bash window I would type the following commands,
 - git add . - This would select all files within the workspace
-- git commit -m "text" - This would enable me to provide a bried description of the work I completed
+- git commit -m "text" - This would enable me to provide a brief description of the work I completed
 - git push - This would then push all the code to Github where it is updated & saved
 
 ### How to Deploy your project
@@ -301,7 +301,7 @@ On completion of a project you will proceed to deploy the website in the followi
 In order to clone a repository, you should follow the below steps,
 1. On Github, select the project you wish to clone
 2. Once you have selected the project you wish to clone, navigate to the main page of the repository and click on the large icon, "Code"
-3. Once you have clicked on this icon, you will recieve a drop down, of which adjacent to the HTTPS address there will be a copy option
+3. Once you have clicked on this icon, you will receive a drop down, of which adjacent to the HTTPS address there will be a copy option
 4. Click on the copy option and proceed to the gitpod workspace 
 5. In your gitpod workspace, proceed to the terminal at the bottom of the screen, and enter the following command with the copies https address as follows, git clone https-etc...
 6. Then press enter to create a cloned repository
@@ -310,4 +310,4 @@ In order to clone a repository, you should follow the below steps,
 
 I would like to thank my mentor Spencer Barriball for his continuous support, advice throughout my project and a lesson/demo in bootstrap which further expands my knowledge and development.
 
-I would also like to thank Code Institute for the in depth lessons, and the Slack Community for feedback and support throghout the course.
+I would also like to thank Code Institute for the in depth lessons, and the Slack Community for feedback and support throughout the course.
