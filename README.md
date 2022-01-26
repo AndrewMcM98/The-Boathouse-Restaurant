@@ -204,16 +204,16 @@ Through further lessons and projects I would like to add the following future im
 ## Resources
 
 - [Unsplash](https://unsplash.com/) for free images
-- [Color Generator](https://coolors.co/) to create different color palettes
+- [Colour Generator](https://coolors.co/) to create different colour palettes
 - [Bootstrap](https://getbootstrap.com/) for bootstrap scripts and examples for which I generated the hamburger menu, as further aided in by my mentor Spencer Barriball
 - [Code Institute](https://codeinstitute.net/) for course lessons, tutorials, content, walkthrough examples such as coders coffeehouse, love running.
 - [Code Institute](https://codeinstitute.net/) Slack Community for assistance throughout each step of the course when I get stuck
-- [Youtube Tutorials](https://www.youtube.com/) for thousands of tutorials, supports, examples and lessons, with particular reference to Kevin Powell, Easy Tutorials, Web Dev Simplified and freeCodeCamp.org, for assistance with many aspects from basical HTML/CSS to Bootstrap, and flexbox.
-- [W3 Schools](https://www.w3schools.com/) for assistance with everything from HTML/CSS to bootstrap, flexbox, CSS style targetting and responsive design.
+- [YouTube Tutorials](https://www.youtube.com/) for thousands of tutorials, supports, examples and lessons, with particular reference to Kevin Powell, Easy Tutorials, Web Dev Simplified and freeCodeCamp.org, for assistance with many aspects from basic HTML/CSS to Bootstrap, and flexbox.
+- [W3 Schools](https://www.w3schools.com/) for assistance with everything from HTML/CSS to bootstrap, flexbox, CSS style targeting and responsive design.
 - [Am I Responsive](http://ami.responsivedesign.is/) for a clean responsive check and confirmation image as seen in the introduction
 - [Font Awesome](https://fontawesome.com/) for icons I utilised
 - [Google Fonts](https://fonts.google.com/) for fonts I utilised
-- [Mentor Website](https://5pence.net/) for tips and tricks in basic web developemnt, how to write mark up in the readme with example layouts, as well as continued feedback, support, lessons and advice in how to improve my code as well as a quick tutorial in bootstrap not covered in our code institute lesson
+- [Mentor Website](https://5pence.net/) for tips and tricks in basic web development, how to write mark up in the readme with example layouts, as well as continued feedback, support, lessons and advice in how to improve my code as well as a quick tutorial in bootstrap not covered in our code institute lesson
 
 ## Technologies used
 
