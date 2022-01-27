@@ -31,25 +31,25 @@ This a website providing detail and information for a mockup restaurant based in
 
 #### From the customers perspective
 
-* As a user I want to be able to navigate easily and clearly throughout the website
-* As a user I want to get clear information for the restaurant opening times
-* As a user I want to find the restaurant easily 
-* As a user I want to be able to find the restaurant social media pages easily and clearly
-* As a user I want to be able to access and interact with this website on a number of different devices
-* As a user I want to see what their menu has to offer with prices clearly displayed so I can make an informed decision
-* As a user I want to see images of the restaurant for identification and decision purposes
-* As a user I want to be able to contact or make a booking online with ease
+- As a user I want to be able to navigate easily and clearly throughout the website
+- As a user I want to get clear information for the restaurant opening times
+- As a user I want to find the restaurant easily 
+- As a user I want to be able to find the restaurant social media pages easily and clearly
+- As a user I want to be able to access and interact with this website on a number of different devices
+- As a user I want to see what their menu has to offer with prices clearly displayed so I can make an informed decision
+- As a user I want to see images of the restaurant for identification and decision purposes
+- As a user I want to be able to contact or make a booking online with ease
 
 #### From the customers fulfilment
 
-* I have designed the website so that the Navigational bar at the top of the screen is clear with easy to navigate links. Additionally I have included a light background and black line to be displayed at all times for the page you are currently on, so that the user will always be aware as to what section of the website they are located on.
-* I have included the restaurant opening days/hours at the main page, so that the user is aware of the restaurant operational hours.
-* I have incorporated an embedded google map location finder within the footer, on all pages of the restaurant so that the user can find the restaurant with ease. 
-* I have included social media links to the relevant social media pages within the footer of the website, which are displayed via the social media logo for easily identifiable links.
-* I have ensured that the website is responsive across multiple devices for easy interaction.
-* I have included a menu section which is easily navigated to from the navigational menu, of which the menu and prices and clearly displayed for the customer to see what is on offer.
-* I have included a gallery which includes images of the food, internal and external view of the restaurant to showcase the view, spacious seating and some of the food on offer to attract a user and improve customer engagement.
-* I have included a section for the user to both contact the restaurant with any queries they may have or alternatively make a booking on any given day/time.
+- I have designed the website so that the Navigational bar at the top of the screen is clear with easy to navigate links. Additionally I have included a light background and black line to be displayed at all times for the page you are currently on, so that the user will always be aware as to what section of the website they are located on.
+- I have included the restaurant opening days/hours at the main page, so that the user is aware of the restaurant operational hours.
+- I have incorporated an embedded google map location finder within the footer, on all pages of the restaurant so that the user can find the restaurant with ease. 
+- I have included social media links to the relevant social media pages within the footer of the website, which are displayed via the social media logo for easily identifiable links.
+- I have ensured that the website is responsive across multiple devices for easy interaction.
+- I have included a menu section which is easily navigated to from the navigational menu, of which the menu and prices and clearly displayed for the customer to see what is on offer.
+- I have included a gallery which includes images of the food, internal and external view of the restaurant to showcase the view, spacious seating and some of the food on offer to attract a user and improve customer engagement.
+- I have included a section for the user to both contact the restaurant with any queries they may have or alternatively make a booking on any given day/time.
 
 ## UX 5 Planes
 
@@ -60,12 +60,12 @@ Therefore, following market research of other local restaurants it was important
 
 ### Scope Plane
 Important features included within this project are,
-* 4 pages
-* 2 pages with a specific function to encourage engagement with the user though a contact-us and booking form
-* A home page providing opening days/hours with general about information for the user
-* A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to find the restaurant
-* A responsive website so that a user can access and interact with this website across a range of devices
-* A gallery section to show case the spacious and picturesque location of the restaurant to attract customers
+- 4 seperate pages
+- 2 pages with a specific function to encourage engagement with the user though a contact-us and booking form
+- A home page providing opening days/hours with general about information for the user
+- A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to find the restaurant
+- A responsive website so that a user can access and interact with this website across a range of devices
+- A gallery section to show case the spacious and picturesque location of the restaurant to attract customers
 
 ### Structure Plane
 The structure and design of the website was created to contain a specific purpose for each section throughout the website such as,
