@@ -145,7 +145,7 @@ footer h4 {
 
 .background-menu {
     width: 100%;
-    background-image: url("../images/menubackground.jpeg");
+    background-image: url("../images/menu-background.jpeg");
     background-position: center;
     background-size: cover;
 }
@@ -182,7 +182,7 @@ hr {
 }
 
 .contact-background {
-    background: url("../images/imageofkitchen.jpeg");
+    background: url("../images/image-of-kitchen.jpeg");
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -222,7 +222,7 @@ textarea:hover {
 }
 
 .booking-background {
-    background: url("../images/internalviewofrestaurant.jpeg");
+    background: url("../images/internal-view-of-restaurant.jpeg");
     background-size: cover;
     background-position: center;
     color: #fff;

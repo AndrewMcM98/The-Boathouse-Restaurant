@@ -262,7 +262,7 @@ On testing my HTML on direct input I note I received errors on the main home pag
 
 On review of the HTML validator I note it stated, The element: a must not appear as a descendant or the button element.
 Therefore, I removed the button HTML and proceeded to use an anchor link element, of which I styled this to appear as a responsive button, of which this removed this error.
-![HTML Error1](assets/images/htmlerror1.png)
+![HTML Error1](assets/images/html-error-1.png)
 #### Booking Page
 
 On review of the HTML validator I note it stated, 
@@ -270,17 +270,17 @@ On review of the HTML validator I note it stated,
 - End tag for: body : seen, but there were unclosed elements
 - Unclosed element header
 Therefore, I proceeded to correctly indent the code layout and close the header and body element, of which this issue was corrected with no further errors.
-![HTML Error2](assets/images/htmlerror2booking.png)
+![HTML Error2](assets/images/htmlerror-2-booking.png)
 #### Gallery Page
 
 On review of the HTML validator I note it stated,
 - Section lacks heading. Consider using h2 - h6 elements to add identifying headings to all sections
 However, whilst I note this error/warning suggestion, this page is designed to be a gallery with little to no text of which we have a heading confirming it to be the gallery with alt attributes describing the images for screen reader accessibility.
-![Section Headings](assets/images/sectionlackheadings.png)
+![Section Headings](assets/images/section-lack-headings.png)
 #### Final Test
 
 On final testing of the HTML Validator and direct input with no applicable error or warnings, I completed a URL check which also confirmed there to be no further errors.
-![Corrections](assets/images/noerroronupdating.png)
+![Corrections](assets/images/no-error-on-updating.png)
 
 ### My own testing including Responsiveness
 
