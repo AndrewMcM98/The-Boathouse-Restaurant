@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As part of my Diploma  in full stack software development with Code Institute I am required to complete 5 mile stone projects. For my first milestone project, I have created a website for a mock-up website for a restaurant based in Garryvoe, Co. Cork, Ireland for educational purposes.
+As part of my Diploma in full stack software development with Code Institute I am required to complete 5 mile stone projects. For my first milestone project, I have created a website for a mock-up restaurant based in Garryvoe, Co. Cork, Ireland for educational purposes.
 
 Please click [HERE](https://andrewmcm98.github.io/The-Boathouse-Restaurant/) to view my website.
 
@@ -12,9 +12,11 @@ I have focused on responsiveness across all devices for design.
 
 ## Who is this website for?
 
-This a website providing detail and information for a mock-up restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and general about information for the company to give a customer insight into the products on offer, and who we are.
-Additionally, I have included a call to action in providing a section on each page on how to find the restaurant with engaging contact & booking forms to promote customer engagement with the website.
-This is a perfect method for restaurants to show case their restaurant, and products whilst engaging with the customer to provide the customer with plentiful information to come dine here.
+This a website providing detail and information for a mock-up restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and general about information for the company, which is designed to give a customer insight into the products on offer, and who we are.
+
+Additionally, I have included a call to action in providing a section on each page, on how to find the restaurant with engaging contact & booking forms to promote customer engagement with the website.
+
+This is a perfect method for restaurants to show case their restaurant, and products whilst engaging with the customer to provide plentiful information to come dine here.
 
 ## The Owner
 
@@ -23,7 +25,7 @@ However, this website can be easily adapted to many other restaurants and is des
 
 ## What does it do?
 
-This a website providing detail and information for a mockup restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
+This a website providing detail and information for a mockup restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company, to give a customer insight into the products on offer, and who we are.
 Additionally, as this is a mock-up website, I used that Code Institute form dump to demonstrate the forms functionality.
 
 ## User Experience
@@ -57,33 +59,33 @@ Additionally, as this is a mock-up website, I used that Code Institute form dump
 ### Strategy Plane
 This website was created to provide an online presence to the boathouse restaurant to increase awareness for the restaurant whilst offering an easier efficient method for customers to gain more information about the restaurant and what's on offer, whilst being able to make contact or bookings efficiently through clear logic calls to action in links to the booking page or a google map finder, located on the footer of each page encouraging engagement with the user.
 
-Therefore, following market research of other local restaurants it was important to provide general restaurant information, a menu with pricing, a gallery showcasing the restaurants unique setting by the sea, with clear calls to action for a customer to engage with the website or easily find the restaurant.
+Therefore, following market research of other local restaurants it was important to provide general restaurant information, a menu with pricing, a gallery showcasing the restaurants unique setting by the sea, with clear calls to action for a customer to engage with the website or easily.
 
 ### Scope Plane
 Important features included within this project are,
 - 4 seperate pages
 - 2 pages with a specific function to encourage engagement with the user though a contact-us and booking form
 - A home page providing opening days/hours with general about information for the user
-- A footer containing social media link and a google map finder to encourage engagement across social platforms, whilst making it easy for a user to find the restaurant
+- A footer containing social media link's to encourage engagement across social platforms, and a google map finder making it easy for a user to find the restaurant
 - A responsive website so that a user can access and interact with this website across a range of devices
-- A gallery section to show case the spacious and picturesque location of the restaurant to attract customers
+- A gallery section to show-case the spacious and picturesque location of the restaurant to attract customers
 
 ### Structure Plane
 The structure and design of the website was created to contain a specific purpose for each section throughout the website such as,
 
 1. Navigation
 - Responsive menu bar across devices
-- Easily accessed to the top of each page whilst allowing easy access to each page
-- A clear background colour & black strike line to the top of the menu section the user is currently on
+- Easily accessed at the top of each page whilst allowing easy access to each page
+- A clear background colour & black strike line to the top of the menu section which is displayed on the page of which the user is currently on
 2. Home
 - Clear bright background colour, with a simple background image and overlay text which is easily read by the user
 - A clear section providing information for opening times
 - An about us section to provide background information for the restaurant and owner
 - A call to action for the user to encourage engagement in booking
 3. Menu
-- A clear easily found section providing clear concise information for the produce on offer accompanied by a brief description with pricing included
+- A clear and easily found section providing concise information for the produce on offer accompanied by a brief description with pricing included
 4. Gallery
-- This section is show casing the picturesque, spacious and delicious cuisine on offer, which showcases the restaurant whilst appealing to the user
+- This section is show casing the picturesque, spacious and delicious cuisine on offer, and showcases the restaurant whilst appealing to the user
 5. Contact Us
 - This call to action page is to encourage contact and engagement with the user so that the user can easily and comfortably contact the restaurant with any enquiries or queries they may have
 6. Booking
@@ -164,7 +166,7 @@ The images I used do not display a real physical restaurant, of which I obtained
 On first entering the website the user will be met by bright colours, clear text and an easy to follow layout.
 ![Main Page](/assets/images/main-page.png)
 The user will also be provided with some key information such as general opening days/hours, an about us section accompanied by a call to action in a anchor link styles to appear as a button, encouraging user engagement to book.
-I have styled the link to appear as a responsive button with a hover effect, as we all as background image showcasing the beautiful scenery with a blue theme colour to link with the sea-side.
+I have styled the link to appear as a responsive button with a hover effect, as well as a background image showcasing the beautiful scenery with a blue theme colour to link with the sea-side.
 ![Responsive Link](/assets/images/responsive-link.png)
 
 2. Menu Page
@@ -253,7 +255,7 @@ Through further lessons and projects I would like to add the following future im
 
 ### W3C CSS Validator
 
-On testing my website via direct input on the W3C CSS Validator, no errors were found. However, imported style sheet such as google fonts are not checked and is out of my control.
+On testing my website via direct input on the W3C CSS Validator, no errors were found. However, imported style sheets such as google fonts are not checked and is out of my control.
 ![CSS Valid](assets/images/css-valid.png)
 
 ### W3C Markup Validator
@@ -261,8 +263,8 @@ On testing my website via direct input on the W3C CSS Validator, no errors were 
 On testing my HTML on direct input I note I received errors on the main home page, gallery page and booking page as displayed in the below images.
 #### Main Home Page
 
-On review of the HTML validator I note it stated, The element: a must not appear as a descendant or the button element.
-Therefore, I removed the button HTML and proceeded to use an anchor link element, of which I styled this to appear as a responsive button, of which this removed this error.
+On review of the HTML validator I note it stated, The element: a must not appear as a descendant of the button element.
+Therefore, I removed the button HTML and proceeded to use an anchor link element, of which I styled this to appear as a responsive button, of which this removed that error.
 ![HTML Error1](assets/images/html-error-1.png)
 #### Booking Page
 
@@ -276,7 +278,7 @@ Therefore, I proceeded to correctly indent the code layout and close the header 
 
 On review of the HTML validator I note it stated,
 - Section lacks heading. Consider using h2 - h6 elements to add identifying headings to all sections
-However, whilst I note this error/warning suggestion, this page is designed to be a gallery with little to no text of which we have a heading confirming it to be the gallery with alt attributes describing the images for screen reader accessibility.
+However, whilst I note this warning suggestion, this page is designed to be a gallery with little to no text of which we have a heading confirming it to be the gallery with alt attributes describing the images for screen reader accessibility.
 ![Section Headings](assets/images/section-lack-headings.png)
 #### Final Test
 
@@ -325,8 +327,8 @@ In order to clone a repository, you should follow the below steps,
 1. On Github, select the project you wish to clone
 2. Once you have selected the project you wish to clone, navigate to the main page of the repository and click on the large icon, "Code"
 3. Once you have clicked on this icon, you will receive a drop down, of which adjacent to the HTTPS address there will be a copy option
-4. Click on the copy option and proceed to the gitpod workspace 
-5. In your gitpod workspace, proceed to the terminal at the bottom of the screen, and enter the following command with the copies https address as follows, git clone https-etc...
+4. Click on the copy option and proceed to your gitpod workspace 
+5. In your gitpod workspace, proceed to the terminal at the bottom of the screen, and enter the following command with the copied https address as follows, git clone https-etc...
 6. Then press enter to create a cloned repository
 
 ## Acknowledgements
