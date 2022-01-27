@@ -24,6 +24,7 @@ However, this website can be easily adapted to many other restaurants and is des
 ## What does it do?
 
 This a website providing detail and information for a mockup restaurant based in Garryvoe, Co. Cork, Ireland. This website has been created to offer customers additional detail about the opening hours, menu, prices, location and about information for the company to give a customer insight into the products on offer, and who we are.
+Additionally, as this is a mock-up website, I used that Code Institute form dump to demonstrate the forms functionality.
 
 ## User Experience
 
